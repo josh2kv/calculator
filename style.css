@@ -63,7 +63,7 @@ body {
   width: 100%;
 }
 
-.calculator .display1 {
+.calculator .display-above {
   /* background-color: #fafafa; */
   background-color: #424242;
   /* color: #616161; */
@@ -73,11 +73,10 @@ body {
   height: 30px;
   width: 100%;
   padding: 10px;
-  /* direction: rtl; */
   text-align: right;
 }
 
-.calculator .display2 {
+.calculator .input-below {
   border: none;
   /* background-color: #fafafa; */
   background-color: #424242;
@@ -86,12 +85,11 @@ body {
   font-weight: 700;
   height: 50px;
   width: 100%;
-  /* direction: rtl; */
   text-align: right;
   padding: 10px;
 }
 
-.calculator .display2:focus {
+.calculator .input-below:focus {
   outline: none;
 }
 
