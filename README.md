@@ -19,6 +19,8 @@
 
 https://josh2kv.github.io/calculator/
 
+![image](https://user-images.githubusercontent.com/79514508/113465581-b7d18200-93fa-11eb-9532-9f0e9fe12348.png)
+
 ![image](https://user-images.githubusercontent.com/79514508/113465349-e4849a00-93f8-11eb-9156-70933fc5a116.png)
 
 ![image](https://user-images.githubusercontent.com/79514508/113094616-f7e30a00-922c-11eb-8128-9636c91d5fa0.png)
